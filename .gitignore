@@ -67,3 +67,5 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+assertion-private.key.json
+assertion-public.key.json
